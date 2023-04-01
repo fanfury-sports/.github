@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/fanfury-sports/.github/main/profile/GRIDIRON%20%20DFS%20%20SPORTS%20%20eSPORTS%20(1)-min.png)
 # Gridiron | Fanfury 
 ## Hi there 👋
 
