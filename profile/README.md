@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# Fanfury
-### Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
+# Fanfury </br> ### Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
+
 
 * 🧬 🏆 As the centrepiece of the FURY Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
 and gaming hub connecting to the main Cosmos Hub 🏆 🏟️ 🧬 🎰
