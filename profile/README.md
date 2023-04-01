@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Fanfury Sports - 🧬 🏆 As the centrepiece of the FURY Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
+# We're Fanfury - 🧬 🏆 As the centrepiece of the FURY Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
 and gaming hub connecting to the main Cosmos Hub 🏆 🏟️ 🧬 🎰
 
 
