@@ -12,7 +12,7 @@ As the centrepiece of the Gridiron Zone, Fanfury will be the first dedicated spo
  
 
 
-### Things we've worked on:
+### Things we're working on:
 
 * 🏟️ [Fanfury](https://github.com/fanfury-sports/fanfury)
   * Fanfury is a Cosmos-SDK heterogenous blockchain, at the cross-section of DFS, eSports, Sports and Athlete Management.
