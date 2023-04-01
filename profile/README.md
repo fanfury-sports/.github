@@ -14,7 +14,7 @@ As the centrepiece of the Gridiron Zone, Fanfury will be the first dedicated spo
 ### Things we've worked on:
 
 * 🏟️ [Fanfury](https://github.com/fanfury-sports/fanfury)
-  * Fanfury is a DFS, eSports, and Athlete dedicated blockchain, at the cross-section of sports, fantasy, and blockchain
+  * Fanfury is a DFS, eSports, and Athlete dedicated blockchain, at the cross-section of sports, fantasy, and athlete management
 * 👾 [Fury](https://github.com/fanfury-sports/fury)
   * Fury is a Trustless Daily Fantasy Sports protocol
 * 🪬 [Zulu](https://github.com/zulumarkets/zulu)
