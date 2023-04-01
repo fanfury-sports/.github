@@ -2,7 +2,7 @@
 
 # Fanfury 
 
-## Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
+* Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
 
 
 * 🧬 🏆 As the centrepiece of the Gridiron Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
