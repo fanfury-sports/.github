@@ -5,8 +5,10 @@
 ## Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
 
 
-* 🧬 🏆 As the centrepiece of the FURY Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
+* 🧬 🏆 As the centrepiece of the Gridiron Network, GRID (a.k.a. GRIDhub) will be the first dedicated sports
 and gaming hub connecting to the main Cosmos Hub 🏆 🏟️ 🧬 🎰
+* Gridiron aims to establish a technology foundation to facilitate the construction of the next-generation sports distributed applications. 
+* By incorporating a comprehensive service infrastructure and an enhanced IBC protocol into the Tendermint & Cosmos stack, Gridiron enables service interoperability as well as token transfers across an internet of blockchains. 
 
 
 
