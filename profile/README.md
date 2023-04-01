@@ -21,4 +21,5 @@ As the centrepiece of the Gridiron Zone, Fanfury will be the first dedicated spo
 * 🪬 [Zulu](https://github.com/zulumarkets/zulu)
   * Zulu is a sports predictions, futures, derivatives perpetuals and sports commodity market.
 * 🥷🏿 [HooligansHorde](https://github.com/github.com/hooliganshoardeturfs/hooliganshorde)
+  * Hooliganhorde is a permissionless fiat stablecoin protocol built on Ethereum.
 * 🧬 [Huddle](https://github.com/github.com/fanfury-sports/huddle)
