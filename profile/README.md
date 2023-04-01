@@ -18,7 +18,7 @@ As the centrepiece of the Gridiron Zone, Fanfury will be the first dedicated spo
   * Fanfury is a Cosmos-SDK heterogenous blockchain, at the cross-section of DFS, eSports, Sports and Athlete Management.
 * 👾 [Fury](https://github.com/fanfury-sports/fury)
   * Fury is a Trustless Daily Fantasy Sports protocol.
-* 🪬 [Zulu](https://github.com/zulumarkets/zulu)
+* 🪬 [Zulu](https://github.com/fanfury-sports/zulu-sport-markets)
   * Zulu is a sports predictions, futures, derivatives perpetuals and sports commodity market.
 * 🥷🏿 [HooligansHorde](https://github.com/github.com/hooliganshoardeturfs/hooliganshorde)
   * Hooliganhorde is a permissionless fiat stablecoin protocol built on Ethereum.
