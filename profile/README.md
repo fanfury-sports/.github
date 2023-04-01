@@ -1,6 +1,6 @@
+# Fanfury 
 ## Hi there 👋
 
-# Fanfury 
 As the centrepiece of the Gridiron Zone, Fanfury will be the first dedicated sports and gaming hub connecting to the main Cosmos Hub
 
 ### Daily Fantasy Sports | eSports | Athlete & Sports Derivatives | Blockchain Sports Infrastructure
